@@ -1,1 +1,1 @@
-Syntax
+Syntax Highlighting
